@@ -4,9 +4,9 @@ An emoji dumper for Discord that I wrote in a couple of minutes.
 
 ## Requirements and dependencies
 
-Install the latest version of node.js [Node.js](https://nodejs.org/en/download/) to use this project
-Other dependencies:
+Install the latest version of [Node.js](https://nodejs.org/en/download/) to use this project
 ```bash
+Other dependencies:
 npm install discord.js
 npm install request
 ```
